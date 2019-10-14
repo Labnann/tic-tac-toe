@@ -100,7 +100,7 @@ if (cnt==9) break;
     }
     system("cls");
     if (k==3) {printf("\nDraw\nLabnan thanks for testing\nPress any key to quit"); getch();return 0;}
-    if (k==1)printf("\nThe player who is using 'x' wins\n\nLabnan thanks you for testing\nPress any key to quit",k);
-    if (k==2)printf("\nThe player who is using 'o' wins\n\nLabnan thanks you for testing\nPress any key to quit",k);
+    if (k==1)printf("\nThe player who is using 'x' wins\n\nI thank you for testing\nPress any key to quit",k);
+    if (k==2)printf("\nThe player who is using 'o' wins\n\nI thank you for testing\nPress any key to quit",k);
 getch();
 }
